@@ -15,6 +15,7 @@
 - [Figma](https://www.figma.com)
 - [VSCode](https://code.visualstudio.com)
 - [PAW](https://paw.cloud) : API tool for Mac
+- [GraphQL Playground](https://github.com/graphql/graphql-playground) : GraphQL IDE
 
 ## Terminal
 
