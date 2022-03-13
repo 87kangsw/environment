@@ -36,3 +36,4 @@
 - [Gifski](https://gif.ski) : Video to GIF
 - [ImageOptim](https://imageoptim.com/mac) : Image resize
 - [iScale3x](https://apps.apple.com/kr/app/iscale-3x/id918571326?mt=12) : Image scale
+- [CleanShotX](https://cleanshot.com) : Screen capture tool 
