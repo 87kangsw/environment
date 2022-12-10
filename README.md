@@ -26,6 +26,7 @@
 - [VSCode](https://code.visualstudio.com)
 - [PAW](https://paw.cloud) : API tool for Mac
 - [GraphQL Playground](https://github.com/graphql/graphql-playground) : GraphQL IDE
+- [Lookin](https://lookin.work): View debugging tool
 
 ## Terminal
 
