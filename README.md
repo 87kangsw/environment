@@ -46,3 +46,4 @@
 - [iScale3x](https://apps.apple.com/kr/app/iscale-3x/id918571326?mt=12) : Image scale
 - [CleanShotX](https://cleanshot.com) : Screen capture tool 
 - [BuildSettingExtractor](https://buildsettingextractor.com): Extract Xcode build settings.
+- [XcodesApp](https://github.com/RobotsAndPencils/XcodesApp): The easiest way to install and switch between multiple versions of Xcode.
