@@ -47,3 +47,10 @@
 - [CleanShotX](https://cleanshot.com) : Screen capture tool 
 - [BuildSettingExtractor](https://buildsettingextractor.com): Extract Xcode build settings.
 - [XcodesApp](https://github.com/RobotsAndPencils/XcodesApp): The easiest way to install and switch between multiple versions of Xcode.
+
+## Agent Skills
+- [Agent Skills Directory](https://skills.sh)
+- [wshobson/agents](https://github.com/wshobson/agents)
+- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
+- [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill)
